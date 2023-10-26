@@ -1,5 +1,7 @@
 This web app was developed as a calculator to estimate the amounts of fertilizer monocomponents to produce user-defined grade of NPK blend.
 
+[link to test the fertilizer blend calculator](https://mpoltoradnev.shinyapps.io/blend_calculator/)
+
 Calculator outputs depend on user-indicated components and NPKS composition as nitrogen (N), phosphorus (P<sub>2</sub>O<sub>5</sub>), potash (K<sub>2</sub>O) and sulphur (S). 
 
 The calculator allows user:
